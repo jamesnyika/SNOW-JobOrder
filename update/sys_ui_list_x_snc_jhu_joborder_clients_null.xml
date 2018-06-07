@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="x_snc_jhu_joborder_clients" version="2" view="">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>number</element>
+            <list_id display_value="x_snc_jhu_joborder_clients" element="NULL" name="x_snc_jhu_joborder_clients" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">94b9a035136e5f40eba0bf173244b019</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>jnyika</sys_created_by>
+            <sys_created_on>2018-06-07 18:33:30</sys_created_on>
+            <sys_id>60b9a035136e5f40eba0bf173244b01a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>jnyika</sys_updated_by>
+            <sys_updated_on>2018-06-07 18:33:30</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>client_billing_address</element>
+            <list_id display_value="x_snc_jhu_joborder_clients" element="NULL" name="x_snc_jhu_joborder_clients" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">94b9a035136e5f40eba0bf173244b019</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>jnyika</sys_created_by>
+            <sys_created_on>2018-06-07 18:33:30</sys_created_on>
+            <sys_id>e4b9a035136e5f40eba0bf173244b01a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>jnyika</sys_updated_by>
+            <sys_updated_on>2018-06-07 18:33:30</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>client_billing_contact</element>
+            <list_id display_value="x_snc_jhu_joborder_clients" element="NULL" name="x_snc_jhu_joborder_clients" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">94b9a035136e5f40eba0bf173244b019</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>jnyika</sys_created_by>
+            <sys_created_on>2018-06-07 18:33:30</sys_created_on>
+            <sys_id>68b9a035136e5f40eba0bf173244b01a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>jnyika</sys_updated_by>
+            <sys_updated_on>2018-06-07 18:33:30</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>client_billing_level</element>
+            <list_id display_value="x_snc_jhu_joborder_clients" element="NULL" name="x_snc_jhu_joborder_clients" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">94b9a035136e5f40eba0bf173244b019</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>jnyika</sys_created_by>
+            <sys_created_on>2018-06-07 18:33:30</sys_created_on>
+            <sys_id>e8b9a035136e5f40eba0bf173244b01a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>jnyika</sys_updated_by>
+            <sys_updated_on>2018-06-07 18:33:30</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>client_billing_method</element>
+            <list_id display_value="x_snc_jhu_joborder_clients" element="NULL" name="x_snc_jhu_joborder_clients" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">94b9a035136e5f40eba0bf173244b019</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>jnyika</sys_created_by>
+            <sys_created_on>2018-06-07 18:33:30</sys_created_on>
+            <sys_id>6cb9a035136e5f40eba0bf173244b01a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>jnyika</sys_updated_by>
+            <sys_updated_on>2018-06-07 18:33:30</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>client_contact</element>
+            <list_id display_value="x_snc_jhu_joborder_clients" element="NULL" name="x_snc_jhu_joborder_clients" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">94b9a035136e5f40eba0bf173244b019</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>5</position>
+            <sum>false</sum>
+            <sys_created_by>jnyika</sys_created_by>
+            <sys_created_on>2018-06-07 18:33:30</sys_created_on>
+            <sys_id>ecb9a035136e5f40eba0bf173244b01a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>jnyika</sys_updated_by>
+            <sys_updated_on>2018-06-07 18:33:30</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>client_delivery_location</element>
+            <list_id display_value="x_snc_jhu_joborder_clients" element="NULL" name="x_snc_jhu_joborder_clients" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">94b9a035136e5f40eba0bf173244b019</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>6</position>
+            <sum>false</sum>
+            <sys_created_by>jnyika</sys_created_by>
+            <sys_created_on>2018-06-07 18:33:30</sys_created_on>
+            <sys_id>60b9a035136e5f40eba0bf173244b01b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>jnyika</sys_updated_by>
+            <sys_updated_on>2018-06-07 18:33:30</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>client_displayindirecttimeentry</element>
+            <list_id display_value="x_snc_jhu_joborder_clients" element="NULL" name="x_snc_jhu_joborder_clients" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">94b9a035136e5f40eba0bf173244b019</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>7</position>
+            <sum>false</sum>
+            <sys_created_by>jnyika</sys_created_by>
+            <sys_created_on>2018-06-07 18:33:30</sys_created_on>
+            <sys_id>e0b9a035136e5f40eba0bf173244b01b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>jnyika</sys_updated_by>
+            <sys_updated_on>2018-06-07 18:33:30</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>client_name</element>
+            <list_id display_value="x_snc_jhu_joborder_clients" element="NULL" name="x_snc_jhu_joborder_clients" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">94b9a035136e5f40eba0bf173244b019</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>8</position>
+            <sum>false</sum>
+            <sys_created_by>jnyika</sys_created_by>
+            <sys_created_on>2018-06-07 18:33:30</sys_created_on>
+            <sys_id>64b9a035136e5f40eba0bf173244b01b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>jnyika</sys_updated_by>
+            <sys_updated_on>2018-06-07 18:33:30</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>client_origination</element>
+            <list_id display_value="x_snc_jhu_joborder_clients" element="NULL" name="x_snc_jhu_joborder_clients" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">94b9a035136e5f40eba0bf173244b019</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>9</position>
+            <sum>false</sum>
+            <sys_created_by>jnyika</sys_created_by>
+            <sys_created_on>2018-06-07 18:33:30</sys_created_on>
+            <sys_id>e4b9a035136e5f40eba0bf173244b01b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>jnyika</sys_updated_by>
+            <sys_updated_on>2018-06-07 18:33:30</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_snc_jhu_joborder_clients</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>jnyika</sys_created_by>
+            <sys_created_on>2018-06-07 18:33:30</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>94b9a035136e5f40eba0bf173244b019</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_snc_jhu_joborder_clients</sys_name>
+            <sys_package display_value="JHU-JobOrder" source="x_snc_jhu_joborder">d5c0cc7513aa5f40eba0bf173244b00b</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="JHU-JobOrder">d5c0cc7513aa5f40eba0bf173244b00b</sys_scope>
+            <sys_update_name>sys_ui_list_x_snc_jhu_joborder_clients_null</sys_update_name>
+            <sys_updated_by>jnyika</sys_updated_by>
+            <sys_updated_on>2018-06-07 18:33:30</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>

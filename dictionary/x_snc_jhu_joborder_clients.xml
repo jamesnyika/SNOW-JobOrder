@@ -25,7 +25,7 @@
             </choice>
         </element>
         <element label="Display In Direct Time Entry" max_length="40" name="client_displayindirecttimeentry" type="boolean"/>
-        <element attributes="edge_encryption_enabled=true" label="Name" max_length="100" name="client_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" display="true" label="Name" max_length="100" name="client_name" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Origination" max_length="40" name="client_origination" type="string"/>
         <element attributes="edge_encryption_enabled=true" choice="1" label="Phases, Activities and Expenses" max_length="40" name="client_phases_activities_expenses" type="string">
             <choice>
