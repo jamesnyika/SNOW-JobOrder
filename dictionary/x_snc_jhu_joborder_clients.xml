@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Clients" max_length="40" name="x_snc_jhu_joborder_clients" type="collection">
+        <element label="Billing Address" max_length="32" name="client_billing_address" reference="cmn_location" type="reference"/>
+        <element label="Billing Contact" max_length="32" name="client_billing_contact" reference="sys_user" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Billing Level" max_length="40" name="client_billing_level" type="string">
+            <choice>
+                <element label="Standard" sequence="0" value="standard"/>
+                <element label="Discounted" sequence="1" value="discounted"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Billing Method" max_length="40" name="client_billing_method" type="string">
+            <choice>
+                <element label="Actual Fees - Budgeted Expenses" sequence="0" value="actual fees - budgeted expenses"/>
+                <element label="Actuals Plus" sequence="1" value="actuals plus"/>
+                <element label="Pre-negotiated" sequence="2" value="pre-negotiated"/>
+            </choice>
+        </element>
+        <element label="Client Contact" max_length="32" name="client_contact" reference="sys_user" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Delivery Location" max_length="40" name="client_delivery_location" type="string">
+            <choice>
+                <element label="Shipping Address" sequence="0" value="shipping address"/>
+                <element label="Billing Address" sequence="1" value="billing address"/>
+                <element label="On File Warehouse" sequence="2" value="on file warehouse"/>
+            </choice>
+        </element>
+        <element label="Display In Direct Time Entry" max_length="40" name="client_displayindirecttimeentry" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" label="Name" max_length="100" name="client_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Origination" max_length="40" name="client_origination" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Phases, Activities and Expenses" max_length="40" name="client_phases_activities_expenses" type="string">
+            <choice>
+                <element label="All Taxable" sequence="0" value="all taxable"/>
+                <element label="All Non Taxable" sequence="1" value="all non taxable"/>
+                <element label="Custom" sequence="2" value="custom"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Proof Required" max_length="40" name="client_proof_required" type="string">
+            <choice>
+                <element label="Always" sequence="0" value="always"/>
+                <element label="Large Jobs Only" sequence="1" value="large jobs only"/>
+                <element label="Classified Only" sequence="2" value="classified only"/>
+            </choice>
+        </element>
+        <element label="Shipping Address" max_length="32" name="client_shipping_address" reference="cmn_location" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Ship Via" max_length="40" name="client_ship_via" type="string">
+            <choice>
+                <element label="Best Way" sequence="0" value="best way"/>
+                <element label="3 Day Delivery" sequence="1" value="3 day delivery"/>
+                <element label="4 Day Delivery" sequence="2" value="4 day delivery"/>
+                <element label="Amazon Locker" sequence="3" value="amazon locker"/>
+            </choice>
+        </element>
+        <element label="SOW Displayed on Calendar" max_length="40" name="client_sow_on_calendar" type="boolean"/>
+        <element attributes="omit_sys_original=true" label="WIP Revenue Previously Recognized" max_length="20" name="client_wip_revenue" type="currency"/>
+        <element attributes="edge_encryption_enabled=true" label="Copy Write" max_length="40" name="copywrite" type="string"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <index name="index">
+            <element name="client_billing_address"/>
+        </index>
+        <index name="index2">
+            <element name="client_billing_contact"/>
+        </index>
+        <index name="index3">
+            <element name="client_contact"/>
+        </index>
+        <index name="index4">
+            <element name="client_shipping_address"/>
+        </index>
+    </element>
+</database>

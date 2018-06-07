@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="u_simple_name_values_1" label="Charges" language="en" table="x_snc_jhu_joborder_job_order">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_simple_name_values_1</element>
+            <help/>
+            <hint/>
+            <label>Charges</label>
+            <language>en</language>
+            <name>x_snc_jhu_joborder_job_order</name>
+            <plural>Charges</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>jnyika</sys_created_by>
+            <sys_created_on>2018-06-07 15:58:27</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>5936083d13aa5f40eba0bf173244b07d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Charges</sys_name>
+            <sys_package display_value="JHU-JobOrder" source="x_snc_jhu_joborder">d5c0cc7513aa5f40eba0bf173244b00b</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="JHU-JobOrder">d5c0cc7513aa5f40eba0bf173244b00b</sys_scope>
+            <sys_update_name>sys_documentation_x_snc_jhu_joborder_job_order_u_simple_name_values_1_en</sys_update_name>
+            <sys_updated_by>jnyika</sys_updated_by>
+            <sys_updated_on>2018-06-07 15:58:27</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

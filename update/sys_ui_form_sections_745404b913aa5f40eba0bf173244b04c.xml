@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_form_sections form_id="745404b913aa5f40eba0bf173244b04c" sys_domain="global" table="x_snc_jhu_joborder_job_order" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>jnyika</sys_created_by>
+            <sys_created_on>2018-06-07 15:50:14</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>705404b913aa5f40eba0bf173244b04d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_snc_jhu_joborder_job_order" name="x_snc_jhu_joborder_job_order" sys_domain="global" view="Default view">745404b913aa5f40eba0bf173244b04c</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_jhu_joborder_job_order" sys_domain="global" view="Default view">49c108f513aa5f40eba0bf173244b050</sys_ui_section>
+            <sys_updated_by>jnyika</sys_updated_by>
+            <sys_updated_on>2018-06-07 15:50:14</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>jnyika</sys_created_by>
+            <sys_created_on>2018-06-07 15:58:27</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c136083d13aa5f40eba0bf173244b055</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_snc_jhu_joborder_job_order" name="x_snc_jhu_joborder_job_order" sys_domain="global" view="Default view">745404b913aa5f40eba0bf173244b04c</sys_ui_form>
+            <sys_ui_section caption="Initialization / Description" display_value="Initialization / Description" name="x_snc_jhu_joborder_job_order" sys_domain="global" view="Default view">c136083d13aa5f40eba0bf173244b050</sys_ui_section>
+            <sys_updated_by>jnyika</sys_updated_by>
+            <sys_updated_on>2018-06-07 15:58:27</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>jnyika</sys_created_by>
+            <sys_created_on>2018-06-07 15:58:27</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4136083d13aa5f40eba0bf173244b059</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_snc_jhu_joborder_job_order" name="x_snc_jhu_joborder_job_order" sys_domain="global" view="Default view">745404b913aa5f40eba0bf173244b04c</sys_ui_form>
+            <sys_ui_section caption="Job Dates" display_value="Job Dates" name="x_snc_jhu_joborder_job_order" sys_domain="global" view="Default view">0d36083d13aa5f40eba0bf173244b050</sys_ui_section>
+            <sys_updated_by>jnyika</sys_updated_by>
+            <sys_updated_on>2018-06-07 15:58:27</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>jnyika</sys_created_by>
+            <sys_created_on>2018-06-07 18:14:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b9656cfd132e5f40eba0bf173244b096</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_snc_jhu_joborder_job_order" name="x_snc_jhu_joborder_job_order" sys_domain="global" view="Default view">745404b913aa5f40eba0bf173244b04c</sys_ui_form>
+            <sys_ui_section caption="Client Related" display_value="Client Related" name="x_snc_jhu_joborder_job_order" sys_domain="global" view="Default view">e9652cfd132e5f40eba0bf173244b0fc</sys_ui_section>
+            <sys_updated_by>jnyika</sys_updated_by>
+            <sys_updated_on>2018-06-07 18:14:45</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>4</position>
+            <sys_created_by>jnyika</sys_created_by>
+            <sys_created_on>2018-06-07 15:58:27</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0536083d13aa5f40eba0bf173244b05d</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_snc_jhu_joborder_job_order" name="x_snc_jhu_joborder_job_order" sys_domain="global" view="Default view">745404b913aa5f40eba0bf173244b04c</sys_ui_form>
+            <sys_ui_section caption="Budget and Specifications" display_value="Budget and Specifications" name="x_snc_jhu_joborder_job_order" sys_domain="global" view="Default view">4536083d13aa5f40eba0bf173244b051</sys_ui_section>
+            <sys_updated_by>jnyika</sys_updated_by>
+            <sys_updated_on>2018-06-07 18:14:45</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>5</position>
+            <sys_created_by>jnyika</sys_created_by>
+            <sys_created_on>2018-06-07 15:58:27</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4d36083d13aa5f40eba0bf173244b061</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_snc_jhu_joborder_job_order" name="x_snc_jhu_joborder_job_order" sys_domain="global" view="Default view">745404b913aa5f40eba0bf173244b04c</sys_ui_form>
+            <sys_ui_section caption="General Specifications" display_value="General Specifications" name="x_snc_jhu_joborder_job_order" sys_domain="global" view="Default view">8d36083d13aa5f40eba0bf173244b051</sys_ui_section>
+            <sys_updated_by>jnyika</sys_updated_by>
+            <sys_updated_on>2018-06-07 18:14:45</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>6</position>
+            <sys_created_by>jnyika</sys_created_by>
+            <sys_created_on>2018-06-07 15:50:14</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f454c4b913aa5f40eba0bf173244b06a</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_snc_jhu_joborder_job_order" name="x_snc_jhu_joborder_job_order" sys_domain="global" view="Default view">745404b913aa5f40eba0bf173244b04c</sys_ui_form>
+            <sys_ui_section caption="Send Email" display_value="Send Email" name="x_snc_jhu_joborder_job_order" sys_domain="global" view="Default view">b854c4b913aa5f40eba0bf173244b069</sys_ui_section>
+            <sys_updated_by>jnyika</sys_updated_by>
+            <sys_updated_on>2018-06-07 18:14:45</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>7</position>
+            <sys_created_by>jnyika</sys_created_by>
+            <sys_created_on>2018-06-07 15:58:27</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0536083d13aa5f40eba0bf173244b073</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_snc_jhu_joborder_job_order" name="x_snc_jhu_joborder_job_order" sys_domain="global" view="Default view">745404b913aa5f40eba0bf173244b04c</sys_ui_form>
+            <sys_ui_section caption="Other" display_value="Other" name="x_snc_jhu_joborder_job_order" sys_domain="global" view="Default view">0936083d13aa5f40eba0bf173244b052</sys_ui_section>
+            <sys_updated_by>jnyika</sys_updated_by>
+            <sys_updated_on>2018-06-07 18:14:45</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_snc_jhu_joborder_job_order</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>jnyika</sys_created_by>
+            <sys_created_on>2018-06-07 15:50:14</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>745404b913aa5f40eba0bf173244b04c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_snc_jhu_joborder_job_order</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="JHU-JobOrder" source="x_snc_jhu_joborder">d5c0cc7513aa5f40eba0bf173244b00b</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="JHU-JobOrder">d5c0cc7513aa5f40eba0bf173244b00b</sys_scope>
+            <sys_update_name>sys_ui_form_sections_745404b913aa5f40eba0bf173244b04c</sys_update_name>
+            <sys_updated_by>jnyika</sys_updated_by>
+            <sys_updated_on>2018-06-07 15:50:14</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>
