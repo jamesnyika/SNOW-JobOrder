@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="Request A Job">d1bd2c39136e5f40eba0bf173244b040</sc_cat_item>
+        <sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>jnyika</sys_created_by>
+        <sys_created_on>2018-06-07 18:51:02</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>91bde079136e5f40eba0bf173244b09c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Request A Job</sys_name>
+        <sys_package display_value="JHU-JobOrder" source="x_snc_jhu_joborder">d5c0cc7513aa5f40eba0bf173244b00b</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="JHU-JobOrder">d5c0cc7513aa5f40eba0bf173244b00b</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_91bde079136e5f40eba0bf173244b09c</sys_update_name>
+        <sys_updated_by>jnyika</sys_updated_by>
+        <sys_updated_on>2018-06-07 18:51:02</sys_updated_on>
+    </sc_cat_item_catalog>
+</record_update>

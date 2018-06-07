@@ -4,6 +4,7 @@
         <element label="Client" max_length="32" name="client" reference="x_snc_jhu_joborder_clients" type="reference"/>
         <element attributes="no_sort=true,slushbucket_ref_no_expand=true" label="Equipment List" max_length="1024" name="equipment_list" reference="cmdb_ci" type="glide_list"/>
         <element default="true" label="Job Billing Status" max_length="40" name="job_billing_status" type="boolean"/>
+        <element label="Job Cost" max_length="20" name="job_cost" type="currency"/>
         <element attributes="omit_sys_original=true" label="Estimated Job Budget" max_length="20" name="job_estimated_budget" type="currency"/>
         <element label="Guaranteed Maximum" max_length="40" name="job_guaranteed_maximum" type="boolean"/>
         <element label="Ready for Billing" max_length="40" name="job_ready_for_billing" type="boolean"/>
